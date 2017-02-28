@@ -9,4 +9,4 @@
 $349.0000, 1070.0000, -1437.0000 ; 		 //measured point 
 @4 ; 		 //anpha order
 #3 ; 		 //beta order
-!100.00 ;		 //LBP (m)
+!89.00 ;		 //LBP (m)
