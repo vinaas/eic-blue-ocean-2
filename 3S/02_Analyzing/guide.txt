@@ -9,4 +9,4 @@
 $3-3;			//DP
 @4;			//anpha = after
 #3;			//beta = Center
-!100;		//LDP (chưa rõ)
+!89;		//LDP (chưa rõ)
