@@ -19,4 +19,4 @@
 $3-3;			//DP
 @6;			//anpha = after
 #5;			//beta = Center
-!111;		//
+!89;		//
