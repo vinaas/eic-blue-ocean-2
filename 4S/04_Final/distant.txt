@@ -1,16 +1,16 @@
-Plane 0: segment 0: 5954.653(mm),  segment 1: 12501.018(mm),  segment 2: 5975.339(mm),  segment 3: 12568.146(mm),  
+Plane 0: segment 0: 5944.544(mm),  segment 1: 12555.486(mm),  segment 2: 5939.434(mm),  segment 3: 12570.671(mm),  
 
-Plane 1: segment 0: 5372.478(mm),  segment 1: 12572.194(mm),  segment 2: 5375.430(mm),  segment 3: 12632.540(mm),  
+Plane 1: segment 0: 5369.108(mm),  segment 1: 12606.721(mm),  segment 2: 5356.820(mm),  segment 3: 12620.393(mm),  
 
-Plane 2: segment 0: 5954.653(mm),  segment 1: 9296.113(mm),  segment 2: 5372.478(mm),  segment 3: 1712.408(mm),  segment 4: 6960.340(mm),  segment 5: 843.678(mm),  
+Plane 2: segment 0: 5944.544(mm),  segment 1: 9283.230(mm),  segment 2: 5369.108(mm),  segment 3: 1757.503(mm),  segment 4: 6951.919(mm),  segment 5: 799.446(mm),  
 
-Plane 3: segment 0: 12568.146(mm),  segment 1: 9282.608(mm),  segment 2: 12632.540(mm),  segment 3: 9296.113(mm),  
+Plane 3: segment 0: 12570.671(mm),  segment 1: 9275.105(mm),  segment 2: 12620.393(mm),  segment 3: 9283.230(mm),  
 
-Plane 4: segment 0: 5975.339(mm),  segment 1: 9282.608(mm),  segment 2: 5375.430(mm),  segment 3: 1714.347(mm),  segment 4: 7014.737(mm),  segment 5: 772.112(mm),  
+Plane 4: segment 0: 5939.434(mm),  segment 1: 9275.105(mm),  segment 2: 5356.820(mm),  segment 3: 1813.075(mm),  segment 4: 6825.882(mm),  segment 5: 870.026(mm),  
 
-Plane 5: segment 0: 12501.018(mm),  segment 1: 772.112(mm),  segment 2: 12504.560(mm),  segment 3: 843.678(mm),  
+Plane 5: segment 0: 12555.486(mm),  segment 1: 870.026(mm),  segment 2: 12559.664(mm),  segment 3: 799.446(mm),  
 
-Plane 6: segment 0: 12504.560(mm),  segment 1: 7014.737(mm),  segment 2: 12553.068(mm),  segment 3: 6960.340(mm),  
+Plane 6: segment 0: 12559.664(mm),  segment 1: 6825.882(mm),  segment 2: 12596.244(mm),  segment 3: 6951.919(mm),  
 
-Plane 7: segment 0: 12553.068(mm),  segment 1: 1714.347(mm),  segment 2: 12572.194(mm),  segment 3: 1712.408(mm),  
+Plane 7: segment 0: 12596.244(mm),  segment 1: 1813.075(mm),  segment 2: 12606.721(mm),  segment 3: 1757.503(mm),  
 
