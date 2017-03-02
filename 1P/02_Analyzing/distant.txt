@@ -1,42 +1,42 @@
  PLANE 0 
-Segment 0: 520(mm),  Segment 1: 14172(mm),  Segment 2: 5356(mm),  Segment 3: 14980(mm),  
+Segment 0: 593(mm),  Segment 1: 14106(mm),  Segment 2: 5355(mm),  Segment 3: 14917(mm),  
 
  PLANE 1 
-Segment 0: 4000(mm),  Segment 1: 2957(mm),  Segment 2: 3972(mm),  Segment 3: 4057(mm),  Segment 4: 5377(mm),  Segment 5: 10830(mm),  
+Segment 0: 3993(mm),  Segment 1: 2856(mm),  Segment 2: 4313(mm),  Segment 3: 3884(mm),  Segment 4: 5351(mm),  Segment 5: 10842(mm),  
 
  PLANE 2 
-Segment 0: 520(mm),  Segment 1: 2508(mm),  Segment 2: 5618(mm),  Segment 3: 1386(mm),  Segment 4: 1689(mm),  Segment 5: 4000(mm),  Segment 6: 9922(mm),  
+Segment 0: 593(mm),  Segment 1: 2683(mm),  Segment 2: 5175(mm),  Segment 3: 1700(mm),  Segment 4: 1616(mm),  Segment 5: 3993(mm),  Segment 6: 9892(mm),  
 
  PLANE 3 
-Segment 0: 14172(mm),  Segment 1: 9922(mm),  Segment 2: 10830(mm),  Segment 3: 9296(mm),  
+Segment 0: 14106(mm),  Segment 1: 9892(mm),  Segment 2: 10842(mm),  Segment 3: 9293(mm),  
 
  PLANE 4 
-Segment 0: 5356(mm),  Segment 1: 591(mm),  Segment 2: 1513(mm),  Segment 3: 5861(mm),  Segment 4: 1719(mm),  Segment 5: 5377(mm),  Segment 6: 9296(mm),  
+Segment 0: 5355(mm),  Segment 1: 733(mm),  Segment 2: 1321(mm),  Segment 3: 5898(mm),  Segment 4: 1784(mm),  Segment 5: 5351(mm),  Segment 6: 9293(mm),  
 
  PLANE 5 
-Segment 0: 14980(mm),  Segment 1: 2508(mm),  Segment 2: 6149(mm),  Segment 3: 8458(mm),  Segment 4: 591(mm),  
+Segment 0: 14917(mm),  Segment 1: 2683(mm),  Segment 2: 5978(mm),  Segment 3: 8469(mm),  Segment 4: 733(mm),  
 
  PLANE 6 
-Segment 0: 2588(mm),  Segment 1: 6149(mm),  Segment 2: 5618(mm),  Segment 3: 4107(mm),  
+Segment 0: 2662(mm),  Segment 1: 5978(mm),  Segment 2: 5175(mm),  Segment 3: 3914(mm),  
 
  PLANE 7 
-Segment 0: 4240(mm),  Segment 1: 4795(mm),  Segment 2: 1513(mm),  Segment 3: 8458(mm),  Segment 4: 2605(mm),  
+Segment 0: 4827(mm),  Segment 1: 4556(mm),  Segment 2: 1321(mm),  Segment 3: 8469(mm),  Segment 4: 2918(mm),  
 
  PLANE 8 
-Segment 0: 4124(mm),  Segment 1: 1386(mm),  Segment 2: 3377(mm),  Segment 3: 2632(mm),  
+Segment 0: 4124(mm),  Segment 1: 1700(mm),  Segment 2: 3385(mm),  Segment 3: 2730(mm),  
 
  PLANE 9 
-Segment 0: 4224(mm),  Segment 1: 2705(mm),  Segment 2: 4203(mm),  Segment 3: 3329(mm),  
+Segment 0: 4603(mm),  Segment 1: 2470(mm),  Segment 2: 4092(mm),  Segment 3: 3434(mm),  
 
  PLANE 10 
-Segment 0: 3324(mm),  Segment 1: 4795(mm),  Segment 2: 5861(mm),  Segment 3: 3994(mm),  
+Segment 0: 3425(mm),  Segment 1: 4556(mm),  Segment 2: 5898(mm),  Segment 3: 4133(mm),  
 
  PLANE 11 
-Segment 0: 3590(mm),  Segment 1: 1689(mm),  Segment 2: 2957(mm),  Segment 3: 1885(mm),  
+Segment 0: 3404(mm),  Segment 1: 1616(mm),  Segment 2: 2856(mm),  Segment 3: 1759(mm),  
 
  PLANE 12 
-Segment 0: 3985(mm),  Segment 1: 1769(mm),  Segment 2: 3972(mm),  Segment 3: 1753(mm),  
+Segment 0: 4031(mm),  Segment 1: 1749(mm),  Segment 2: 4313(mm),  Segment 3: 1778(mm),  
 
  PLANE 13 
-Segment 0: 1758(mm),  Segment 1: 4057(mm),  Segment 2: 1719(mm),  Segment 3: 4013(mm),  
+Segment 0: 1788(mm),  Segment 1: 3884(mm),  Segment 2: 1784(mm),  Segment 3: 4179(mm),  
 
