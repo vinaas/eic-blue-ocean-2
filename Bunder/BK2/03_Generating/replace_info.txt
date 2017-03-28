@@ -1,0 +1,6 @@
+Value of point 34 is replaced by the average_point 
+Value of point 38 is replaced by the average_point 
+Value of point 41 is replaced by the average_point 
+Value of point 46 is replaced by the average_point 
+
+
